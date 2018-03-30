@@ -1,4 +1,4 @@
-<?
+<?php
 require_once 'vendor/autoload.php';
 
 $taiwanarea = new Jsnlib\Taiwan\Area;
@@ -40,5 +40,3 @@ echo "取得關鍵字 平 的所有區域<br>";
 $ary = $taiwanarea->city(1003)->area()->search("平")->get();
 print_r($ary);
 echo "<hr>";
-
-?>

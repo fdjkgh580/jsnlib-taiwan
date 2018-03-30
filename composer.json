@@ -2,7 +2,7 @@
     "name": "jsnlib/taiwan",
     "type": "library",
     "description": "",
-    "keywords": ["array", "object", "convert", "ArrayObject"],
+    "keywords": ["taiwan", "country", "city"],
     "license": "MIT",
     "require": {
         "php": ">=5.2.4"

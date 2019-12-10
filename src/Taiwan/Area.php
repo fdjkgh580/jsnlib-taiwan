@@ -1,4 +1,4 @@
-<?
+<?php
 namespace Jsnlib\Taiwan;
 
 //台灣行政區域

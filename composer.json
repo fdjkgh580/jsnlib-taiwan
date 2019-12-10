@@ -2,7 +2,7 @@
     "name": "jsnlib/taiwan",
     "type": "library",
     "description": "",
-    "keywords": ["taiwan", "country", "city"],
+    "keywords": ["taiwan", "country", "city", "台灣", "縣市區域"],
     "license": "MIT",
     "require": {
         "php": ">=7.0.0"
